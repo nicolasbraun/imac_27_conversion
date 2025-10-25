@@ -47,4 +47,4 @@ or Just search for iMac 5K Conversion, there are quite a lot.
 
 # My Build
 
-Here is my ['final' build.]
+Here is my ['final' build.](https://forums.macrumors.com/threads/diy-5k-monitor-success.2253100/post-34249782)
